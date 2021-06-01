@@ -1,0 +1,19 @@
+@import "reset.css";
+
+#contentWrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1 1 auto;
+}
+
+.jsQuestionWrap{
+    display: none;
+  }
+  .homeWrap{
+    display: none;
+  }
+  .on{
+    display: flex;
+  }
+  
